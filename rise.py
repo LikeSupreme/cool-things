@@ -73,3 +73,4 @@ while True:
     print("\nBilgisayar Kazanma Sayısı : ",bilgisayar_win)
     print("Oyuncu Kazanma Sayısı : ",oyuncu_win)
     print("Berabere Sayısı : ",berabere)
+    
